@@ -1,0 +1,50 @@
+HC01_EST_VC01,Total; Estimate; Civilian noninstitutionalized population
+HC01_EST_VC05,Total; Estimate; AGE - Under 6 years
+HC01_EST_VC06,Total; Estimate; AGE - 6 to 18 years
+HC01_EST_VC07,Total; Estimate; AGE - 19 to 25 years
+HC01_EST_VC08,Total; Estimate; AGE - 26 to 34 years
+HC01_EST_VC09,Total; Estimate; AGE - 35 to 44 years
+HC01_EST_VC10,Total; Estimate; AGE - 45 to 54 years
+HC01_EST_VC11,Total; Estimate; AGE - 55 to 64 years
+HC01_EST_VC12,Total; Estimate; AGE - 65 to 74 years
+HC01_EST_VC13,Total; Estimate; AGE - 75 years and older
+HC01_EST_VC20,Total; Estimate; SEX - Male
+HC01_EST_VC21,Total; Estimate; SEX - Female
+HC01_EST_VC24,Total; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - White alone
+HC01_EST_VC25,Total; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - Black or African American alone
+HC01_EST_VC26,Total; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - American Indian and Alaska Native alone
+HC01_EST_VC27,Total; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - Asian alone
+HC01_EST_VC28,Total; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - Native Hawaiian and Other Pacific Islander alone
+HC01_EST_VC29,Total; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - Some other race alone
+HC01_EST_VC30,Total; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - Two or more races
+HC01_EST_VC32,Total; Estimate; Hispanic or Latino (of any race)
+HC01_EST_VC33,"Total; Estimate; White alone, not Hispanic or Latino"
+HC01_EST_VC37,Total; Estimate; LIVING ARRANGEMENTS - In family households - In married couple families
+HC01_EST_VC39,"Total; Estimate; LIVING ARRANGEMENTS - In family households - In other families - Male householder, no wife present"
+HC01_EST_VC40,"Total; Estimate; LIVING ARRANGEMENTS - In family households - In other families - Female householder, no husband present"
+HC01_EST_VC41,Total; Estimate; LIVING ARRANGEMENTS - In non-family households and other living arrangements
+HC01_EST_VC44,Total; Estimate; NATIVITY AND U.S. CITIZENSHIP STATUS - Native born
+HC01_EST_VC46,Total; Estimate; NATIVITY AND U.S. CITIZENSHIP STATUS - Foreign born - Naturalized
+HC01_EST_VC47,Total; Estimate; NATIVITY AND U.S. CITIZENSHIP STATUS - Foreign born - Not a citizen
+HC01_EST_VC50,Total; Estimate; DISABILITY STATUS - With a disability
+HC01_EST_VC51,Total; Estimate; DISABILITY STATUS - No disability
+HC01_EST_VC55,Total; Estimate; EDUCATIONAL ATTAINMENT - Civilian noninstitutionalized population 26 years and over - Less than high school graduate
+HC01_EST_VC56,Total; Estimate; EDUCATIONAL ATTAINMENT - Civilian noninstitutionalized population 26 years and over - High school graduate (includes equivalency)
+HC01_EST_VC57,Total; Estimate; EDUCATIONAL ATTAINMENT - Civilian noninstitutionalized population 26 years and over - Some college or associate's degree
+HC01_EST_VC58,Total; Estimate; EDUCATIONAL ATTAINMENT - Civilian noninstitutionalized population 26 years and over - Bachelor's degree or higher
+HC01_EST_VC62,Total; Estimate; EMPLOYMENT STATUS - Civilian noninstitutionalized population 19 to 64 years - In labor force
+HC01_EST_VC63,Total; Estimate; EMPLOYMENT STATUS - Civilian noninstitutionalized population 19 to 64 years - In labor force - Employed
+HC01_EST_VC64,Total; Estimate; EMPLOYMENT STATUS - Civilian noninstitutionalized population 19 to 64 years - In labor force - Unemployed
+HC01_EST_VC65,Total; Estimate; EMPLOYMENT STATUS - Civilian noninstitutionalized population 19 to 64 years - Not in labor force
+HC01_EST_VC69,"Total; Estimate; WORK EXPERIENCE - Civilian noninstitutionalized population 19 to 64 years - Worked full-time, year round in the past 12 months"
+HC01_EST_VC70,"Total; Estimate; WORK EXPERIENCE - Civilian noninstitutionalized population 19 to 64 years - Worked less than full-time, year round in the past 12 months"
+HC01_EST_VC71,Total; Estimate; WORK EXPERIENCE - Civilian noninstitutionalized population 19 to 64 years - Did not work
+HC01_EST_VC75,"Total; Estimate; HOUSEHOLD INCOME (IN 2017 INFLATION-ADJUSTED DOLLARS) - Total household population - Under $25,000"
+HC01_EST_VC76,"Total; Estimate; HOUSEHOLD INCOME (IN 2017 INFLATION-ADJUSTED DOLLARS) - Total household population - $25,000 to $49,999"
+HC01_EST_VC77,"Total; Estimate; HOUSEHOLD INCOME (IN 2017 INFLATION-ADJUSTED DOLLARS) - Total household population - $50,000 to $74,999"
+HC01_EST_VC78,"Total; Estimate; HOUSEHOLD INCOME (IN 2017 INFLATION-ADJUSTED DOLLARS) - Total household population - $75,000 to $99,999"
+HC01_EST_VC79,"Total; Estimate; HOUSEHOLD INCOME (IN 2017 INFLATION-ADJUSTED DOLLARS) - Total household population - $100,000 and over"
+HC01_EST_VC83,Total; Estimate; RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS - Civilian noninstitutionalized population for whom poverty status is determined - Below 138 percent of the poverty threshold
+HC01_EST_VC84,Total; Estimate; RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS - Civilian noninstitutionalized population for whom poverty status is determined - 138 to 399 percent of the poverty threshold
+HC01_EST_VC85,Total; Estimate; RATIO OF INCOME TO POVERTY LEVEL IN THE PAST 12 MONTHS - Civilian noninstitutionalized population for whom poverty status is determined - At or above 400 percent of the poverty threshold
+HC01_EST_VC87,Total; Estimate; Below 100 percent of the poverty threshold
