@@ -5,6 +5,9 @@
 
 # Table Content
 # Installation
+ 	1. Ananconda 3
+	2. Plotly
+	3. 
 # Usage
 # Contribution
 	1.
